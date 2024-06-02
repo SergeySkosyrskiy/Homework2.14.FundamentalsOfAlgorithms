@@ -1,4 +1,4 @@
-package org.example;
+package org.example.model;
 
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
